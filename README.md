@@ -8,4 +8,4 @@ In this repository, I share crosswalk files that I have created.
 
 ## Economics
 2. *nace_german.csv* / *nace_english.csv* \
-    Here, I provide a lookup tables for the NACE classification in German and English. One line links a level 4 NACE code to its parents in level 3, level 2 and level 1. The verbal descriptions of each level are included on every line. The original data is provided by Eurostat. The encoding standard is given by the "Statistical Classification of Economic Activities in the European Community, Rev. 2 (2008) (NACE Rev. 2)".
+    Here, I provide a crosswalk file for the NACE classification in German and English to ISIC Revision 4 codes. One line links a level 4 NACE code to its NACE parents in level 3, level 2 and level 1, as well as the all ISIC code levels. The verbal NACE descriptions of each level are included on every line. The original data is provided by Eurostat RAMON. The encoding standard is given by the "Statistical Classification of Economic Activities in the European Community, Rev. 2 (2008) (NACE Rev. 2)".
