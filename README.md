@@ -2,7 +2,7 @@
 In this repository, I share crosswalk files that I have created during my research. 
 
 ## Geography
-1. *us_crosswalk_2019.RData* / *us_crosswalk_2019.csv* \
+1. *us_counties_crosswalk_2019.csv* \
     Here, I provide a geographical crosswalk file for the United States linking state-county FIPS with respective CBSA, CSA,        and MSA. It was created using the 2019 TIGER/Line Shapefiles and the March 2020 delineation files. Both are provided by the US Census Bureau.
 
 
