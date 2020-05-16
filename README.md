@@ -1,5 +1,5 @@
 # Public Crosswalk Files
-In this repository, I share crosswalk files that I have created during my research. 
+In this repository, I share crosswalk files that I have created. 
 
 ## Geography
 1. *us_counties_crosswalk_2019.csv* \
